@@ -5,6 +5,6 @@ import captcha.image as capi
 
 ima= capi.ImageCaptcha(width= 280, height= 90)
 
-texto= "prueba"
+texto= "Captcha generator"
 
 ima.write(texto, "output.png")
