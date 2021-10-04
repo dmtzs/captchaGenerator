@@ -3,3 +3,5 @@ dist
 build
 *.spec
 *.png
+palabras.py
+captchaIma.py
