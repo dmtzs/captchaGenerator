@@ -1,5 +1,5 @@
 <p align="center">
-  <!--img width="200" src=""-->
+  <img width="200" src="https://github.com/dmtzs/captchaGenerator/blob/master/output.png">
   <h1 align="center" style="margin: 0 auto 0 auto;">Captcha generator</h1>
   <h5 align="center" style="margin: 0 auto 0 auto;">A simple application to generate random captcha</h5>
 </p>
